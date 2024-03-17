@@ -9,8 +9,9 @@ from moviepy.editor import *
 ########################################### KEYS ############################################
 
 headers = CaseInsensitiveDict()
-headers["Authorization"] = "Bearer 22xe9dvwvecit9psaezne64420tzlv"
-headers["Client-Id"] = "s5v8v6wuj7kw0gbbstinfapqr3sdm7"
+# env var deleted in order to make it public
+headers["Authorization"] = ""
+headers["Client-Id"] = ""
 
 ########################################### DAYS ############################################
 

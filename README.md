@@ -1,21 +1,23 @@
-# TiktokBOT
+# TiktokBOT  
 
-A python script to scrap videos on Twitch and assembly them to post video of 1 minute on TikTok !
+[!] À noter : il s'agit de l'un de mes premiers projets informatiques, datant de 2022. Par conséquent la qualité de ce code laisse fortement à désirer et ne respecte absolument pas les bonnes conventions.
 
-### To start 
+Un script Python pour récupérer des vidéos sur Twitch & Youtube et les assembler afin de publier des vidéos d'une minute sur TikTok !  
 
-Delete all files on the folders (script normally do in your place)
+### Pour commencer  
 
-### Prerequisite
+Supprimez tous les fichiers dans les dossiers (le script est censé le faire automatiquement).  
 
-What you need to start the script:
+### Prérequis  
 
-- Ffmpeg (add to PATH)
-- ImageMagick
-- MoviePy
-- Twitch-DL
-- Python 3
+Ce dont vous avez besoin pour exécuter le script :  
 
-### Start up
+- Ffmpeg (ajouté au PATH)  
+- ImageMagick  
+- MoviePy  
+- Twitch-DL  
+- Python 3  
 
-Execute ``pip install -r requirements.txt`` and ``python scrap.py``
+### Lancement  
+
+Exécutez ``pip install -r requirements.txt`` puis ``python scrap.py``  

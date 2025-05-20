@@ -1,38 +1,45 @@
-# 🎬 ChouBot
+<h1 align="center">🚀 Exosky</h1>
+<h3 align="center">Developer & UI/UX Designer from France 🇫🇷</h3>
 
-Automated script to generate 1-minute TikTok videos using Twitch & YouTube clips — built with Python
-
-> ⚠️ **Note**  
-> This is one of my first programming projects (2022). Code quality and conventions may not reflect best practices.
-
-## 📌 About
-
-ChouBot is a Python script designed to automate the process of creating short, TikTok-ready videos. It downloads clips from Twitch and YouTube, assembles them, and outputs a vertical 1-minute format optimized for TikTok uploads.
-
-## 🧰 Requirements
-
-Make sure the following dependencies are installed:
-
-- Python 3.x
-- FFmpeg (must be added to your system PATH)
-- ImageMagick
-- MoviePy
-- Twitch-DL
-
-## 🚀 Getting Started
-
-1. **Clean up folders**  
-   Make sure to empty all content in the media folders before running the script (the script is meant to do this automatically, but a manual cleanup is safer for now).
-
-2. **Install dependencies**
-  ```pip install -r requirements.txt```
-
-3. **Run the script**
-  ```python scrap.py```
-
+---
 
 ## 📬 Contact
 
-Email: exosky.dev@gmail.com <br>
-Twitter/X: https://x.com/exosky12_
+- [X (Twitter)](https://x.com/exosky12_)
+- 📧 [exosky.dev@gmail.com](mailto:exosky.dev@gmail.com)
 
+---
+
+## 💼 About Me
+
+I'm a developer with a strong focus on TypeScript, working primarily with AdonisJS, React, and modern web technologies. I build scalable applications with attention to clean architecture, performance, and user experience.
+
+---
+
+## 🚀 Selected Projects
+
+| Project          | Description                                                          | Tech Stack               | Link                                                      |
+|------------------|----------------------------------------------------------------------|--------------------------|-----------------------------------------------------------|
+| **Atelier Merienne** | E-commerce & CRM built with AdonisJS + Inertia (React) for artisanal leather goods | AdonisJS, React, Inertia.js | [GitHub](https://github.com/exosky12/ateliermerienne)    |
+| **DuckAndCover**     | Local multiplayer game featuring ducks, built with C# and .NET MAUI | C#, .NET MAUI            | [GitHub](https://github.com/exosky12/DuckAndCover)        |
+| **Monster Clash**    | CLI-based monster battle game written in C for school project       | C, CLI                   | [GitHub](https://github.com/exosky12/Monster-Clash)       |
+
+*More projects pinned on my [GitHub profile](https://github.com/exosky12?tab=repositories&pinned=true).*
+
+---
+
+## 🛠️ Tech Stack (main)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exosky12&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>

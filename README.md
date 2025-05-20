@@ -33,6 +33,6 @@ Make sure the following dependencies are installed:
 
 ## 📬 Contact
 
-Email: exosky.dev@gmail.com
+Email: exosky.dev@gmail.com <br>
 Twitter/X: https://x.com/exosky12_
 

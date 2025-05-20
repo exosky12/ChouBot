@@ -1,23 +1,38 @@
-# TiktokBOT  
+# 🎬 ChouBot
 
-[!] À noter : il s'agit de l'un de mes premiers projets informatiques, datant de 2022. Par conséquent la qualité de ce code laisse fortement à désirer et ne respecte absolument pas les bonnes conventions.
+Automated script to generate 1-minute TikTok videos using Twitch & YouTube clips — built with Python
 
-Un script Python pour récupérer des vidéos sur Twitch & Youtube et les assembler afin de publier des vidéos d'une minute sur TikTok !  
+> ⚠️ **Note**  
+> This is one of my first programming projects (2022). Code quality and conventions may not reflect best practices.
 
-### Pour commencer  
+## 📌 About
 
-Supprimez tous les fichiers dans les dossiers (le script est censé le faire automatiquement).  
+ChouBot is a Python script designed to automate the process of creating short, TikTok-ready videos. It downloads clips from Twitch and YouTube, assembles them, and outputs a vertical 1-minute format optimized for TikTok uploads.
 
-### Prérequis  
+## 🧰 Requirements
 
-Ce dont vous avez besoin pour exécuter le script :  
+Make sure the following dependencies are installed:
 
-- Ffmpeg (ajouté au PATH)  
-- ImageMagick  
-- MoviePy  
-- Twitch-DL  
-- Python 3  
+- Python 3.x
+- FFmpeg (must be added to your system PATH)
+- ImageMagick
+- MoviePy
+- Twitch-DL
 
-### Lancement  
+## 🚀 Getting Started
 
-Exécutez ``pip install -r requirements.txt`` puis ``python scrap.py``  
+1. **Clean up folders**  
+   Make sure to empty all content in the media folders before running the script (the script is meant to do this automatically, but a manual cleanup is safer for now).
+
+2. **Install dependencies**
+  ```pip install -r requirements.txt```
+
+3. **Run the script**
+  ```python scrap.py```
+
+
+## 📬 Contact
+
+Email: exosky.dev@gmail.com
+Twitter/X: https://x.com/exosky12_
+
